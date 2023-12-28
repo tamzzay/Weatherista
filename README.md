@@ -37,5 +37,6 @@ Contributions to Weatherista are welcome! Whether it's bug fixes, new features, 
 
 Experience the world of weather forecasting with Weatherista - your reliable companion for accurate and stylish weather updates
 
-![Screenshot (186)](https://github.com/tamzzay/Weatherista/assets/130298353/add2e8ee-5574-45d2-9d2c-de3cf39d1d5f)
+
+![Screenshot (187)](https://github.com/tamzzay/Weatherista/assets/130298353/5ce805cd-30c9-46d4-b1f6-47978bb865b0)
 
