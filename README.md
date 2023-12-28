@@ -36,3 +36,6 @@ Discover the power of Weatherista by entering your location or searching for a s
 Contributions to Weatherista are welcome! Whether it's bug fixes, new features, or improvements, feel free to submit issues, feature requests, or pull requests to help enhance the app's functionality.
 
 Experience the world of weather forecasting with Weatherista - your reliable companion for accurate and stylish weather updates
+
+![Screenshot (186)](https://github.com/tamzzay/Weatherista/assets/130298353/add2e8ee-5574-45d2-9d2c-de3cf39d1d5f)
+
