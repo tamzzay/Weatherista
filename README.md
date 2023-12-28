@@ -32,7 +32,13 @@ Obtain an API key from OpenWeatherMap (openweathermap.org) and replace the place
 4. Explore and Enjoy:
 Discover the power of Weatherista by entering your location or searching for a specific city. Stay up-to-date with the latest weather conditions in a visually appealing and user-friendly environment.
 
-# Contribution Guidelines
+## Acknowledgements
+- Special thanks to Tamanna Shenoy for contributions or inspiration.
+
+## Contact
+For any questions or feedback, please contact the project maintainer at tamannashenoy1920@gmail.com.
+
+## Contribution Guidelines
 Contributions to Weatherista are welcome! Whether it's bug fixes, new features, or improvements, feel free to submit issues, feature requests, or pull requests to help enhance the app's functionality.
 
 Experience the world of weather forecasting with Weatherista - your reliable companion for accurate and stylish weather updates
